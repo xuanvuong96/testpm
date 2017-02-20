@@ -1,7 +1,7 @@
 // nhan2so.cpp : Defines the entry point for the console application.
 //
 
-#include<math.h>
+
 #include <stdio.h>
 #include <iostream>
 
